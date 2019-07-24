@@ -8,5 +8,6 @@ yarn install
 ### Run
 ```
 yarn run serve 
-http://localhost:8081/
+
+Site > http://localhost:8081/
 ```
