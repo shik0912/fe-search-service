@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+node download > <a href="https://nodejs.org/ko/download/">https://nodejs.org/ko/download/</a>
 yarn install
 ```
 
