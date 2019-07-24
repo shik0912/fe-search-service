@@ -1,4 +1,4 @@
-# searchbookservice
+# fe-searchbookservice
 
 ## Project setup
 ```
