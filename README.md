@@ -2,8 +2,7 @@
 
 ## Project setup
 ```
-node install [download link](https://nodejs.org/ko/download/)
-- v10.16.0으로 개발진행
+node install (https://nodejs.org/ko/download/) - v10.16.0 개발 진행
 npm install --global yarn
 yarn install
 ```
